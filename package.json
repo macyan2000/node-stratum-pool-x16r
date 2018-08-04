@@ -30,7 +30,7 @@
         "url": "https://github.com/macyan2000/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/macyan2000/node-stratum-pool.git",
+        "multi-hashing": "git://github.com/macyan2000/node-multi-hashing-yl.git",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
