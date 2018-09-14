@@ -31,7 +31,7 @@
         "url": "https://github.com/macyan2000/node-stratum-pool-ylp.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/macyan2000/node-multi-hashing-ylp.git",
+        "multi-hashing": "git://github.com/macyan2000/node-multi-hashing-ylp-test.git",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
