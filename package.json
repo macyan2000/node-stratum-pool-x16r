@@ -15,9 +15,9 @@
         "lyra2re2",
         "scrypt"
     ],
-    "homepage": "https://github.com/macyan2000/node-stratum-pool-ylp.git",
+    "homepage": "https://github.com/macyan2000/node-stratum-pool-x16r.git",
     "bugs": {
-        "url": "https://github.com/macyan2000/node-stratum-pool-ylp.git/issues"
+        "url": "https://github.com/macyan2000/node-stratum-pool-x16r.git/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -28,10 +28,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/macyan2000/node-stratum-pool-ylp.git"
+        "url": "https://github.com/macyan2000/node-stratum-pool-x16r.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/macyan2000/node-multi-hashing-ylp-test.git",
+        "multi-hashing": "git://github.com/macyan2000/node-multi-hashing-x16r.git",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
